@@ -1,0 +1,9 @@
+- 👋 Hello! I'm Aghin Ashraf
+- As an IT enthusiast, I'm passionate about exploring new technologies and innovative solutions. I'm currently learning [AI, machine learning].
+- 👀 Skills-
+-  Programming languages: Python, JavaScript
+- Technologies: AI, machine learning, web development
+- Tools: Git, GitHub, Visual Studio Code
+- 📫 How to reach me ...
+- aghinashraf.pm@gmail.com
+- https://www.linkedin.com/in/mohd-aghin-ashraf-38811226b/
